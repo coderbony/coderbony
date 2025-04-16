@@ -34,13 +34,13 @@
 
 ## 📊 GitHub Stats
 
-![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderbunny&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbunny&layout=compact&theme=tokyonight)
 
 ---
 

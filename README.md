@@ -47,7 +47,7 @@
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lalit-senapati-7866362b5)  
-[![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:lalitsenapati89@gmail.com)
 
 ---
 

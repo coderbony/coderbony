@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Lalit!
 
-🎓 2nd-year CSE student  
+🎓 2nd-year CSE(Software) student  
 📍 Based in Bhubaneswar, India  
 🚀 Currently diving deep into Python and Machine Learning  
 

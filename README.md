@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Lalit!
 
-🎓 2nd-year CSE(Software) student  
+🎓 2nd-year CSE student  
 📍 Based in Bhubaneswar, India  
 🚀 Currently diving deep into Python and Machine Learning  
 
@@ -34,19 +34,19 @@
 
 ## 📊 GitHub Stats
 
-![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderbony&show_icons=true&theme=radical)
+![Lalit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbony&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lalit-senapati-7866362b5)  
 [![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_ADDRESS)
 
 ---
